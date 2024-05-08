@@ -1,0 +1,5 @@
+*__pycache__*
+*.so
+*.pyc
+thirdparty/TorchSDF/build/
+*.egg*

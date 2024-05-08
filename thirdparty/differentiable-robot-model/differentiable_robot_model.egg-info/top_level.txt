@@ -1,2 +1,0 @@
-diff_robot_data
-differentiable_robot_model
